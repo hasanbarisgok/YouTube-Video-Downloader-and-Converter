@@ -12,5 +12,9 @@ This is a simple Python script that allows you to download Youtube videos and co
 6. Wait for the download to complete.
 7. Note: The downloaded files will be saved in a folder named "hbg_musics" in the current directory. If the folder already exists, the downloaded files will be saved there. If not, a new folder will be created.
 
+### Click the image, and watch the using video:
+
+[![USING VIDEO](https://i.hizliresim.com/5hfq6xz.png)](https://drive.google.com/file/d/1yxkTdrcUu_4WUGOsqFR2pdfrXLmxAzOq/view?usp=share_link)
+
 ### License
 This project is licensed under the terms of the MIT license.
